@@ -14,7 +14,7 @@ const wio = [
    {
       id: 2,
       title: "linkloom",
-      des: "A social media website. I focused on the user authentication, profile setup and edit. ",
+      des: "A social media webapp. I focused on the user authentication, profile setup and edit. ",
       src: linklooom,
       to: "https://linkloom-zeta.vercel.app/",
    },
